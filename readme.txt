@@ -1,6 +1,6 @@
 DLKSDJASdKThis is my fixed for DevOpsSchool.com....Fix for Tasdsdasdsadkggggg
 For any questions - Please email me at DevOps@RajeshKumar.gxyz
-# new===========================NEXUS==============================
+# newnew===========================NEXUS==============================
 
 <distributionManagement>
 	<repository>
